@@ -1,0 +1,6 @@
+Hello team,
+
+Please contact john.doe@example.com or jane_smith@company.org for details.
+You can also reach support at support@codealpha.tech or services.codealpha@gmail.com.
+Duplicate entry: John.Doe@example.com
+This line has no email address, just text.
